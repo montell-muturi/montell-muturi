@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, name's Montell 👋
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=montell-muturi&layout=compact&theme=calm)
 
